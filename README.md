@@ -1,2 +1,2 @@
-# doomsday
-doomsday website
+# Doomsday Utility
+Doomsday Utility Github
